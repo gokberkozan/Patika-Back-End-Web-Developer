@@ -1,3 +1,3 @@
 ## Pattern Recursive  
 ### Explanation
-Program that finds whether the number received from the user is a "Prime" number by using the "Recursive" method
+A "Recursive" method without using a loop that obeys the following rule according to the n value received from the user
